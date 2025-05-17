@@ -1,8 +1,8 @@
-### Hi there 👋
+### 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MrP-cpu/MrP-cpu/main/assets/terminal.gif" alt="hey everyone" style="max-width:100%; height:auto;">
-  <p><em style="color: gray;">hey everyone</em></p>
+  <p><em style="color: gray;"></em></p>
 </div>
 
 <!--
