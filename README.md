@@ -3,9 +3,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MrP-cpu/MrP-cpu/main/assets/terminal.gif" alt="hey everyone" style="max-width:100%; height:auto;">
-  <p><em style="color: gray;">Waveshare 2.13 e-Ink Paper HAT+ Display</em></p>
+  <p><em style="color: gray;">hey everyone</em></p>
 </div>
-- 
+
 <!--
 - <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
