@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning about Linux and stuff
-https://raw.githubusercontent.com/MrP-cpu/MrP-cpu/main/assets/terminal.gif
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrP-cpu/MrP-cpu/main/assets/terminal.gif" alt="hey everyone" style="max-width:100%; height:auto;">
+  <p><em style="color: gray;">Waveshare 2.13 e-Ink Paper HAT+ Display</em></p>
+</div>
 - 
 <!--
 - <div align="center">
