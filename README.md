@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning about Linux and stuff
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MrP-cpu/MrP-cpu/main/assets/terminal.gif" alt="hey everyone" style="max-width:100%; height:auto;">
